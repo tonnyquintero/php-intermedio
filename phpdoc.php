@@ -1,7 +1,7 @@
 <?php
 
 /**
- * esta es una funcion de sumar
+ * This is And add function. 
  *
  * @param int $n1
  * @param int $n2
