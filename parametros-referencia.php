@@ -3,7 +3,7 @@
 $cat = "meow";
 
 function make_a_cat_bark(&$cat_dog){
-    $cat_dog = "woof";
+    $cat_dog = "woof!!";
 }
 
 
