@@ -15,6 +15,7 @@ $edades = [5, 38, 17, 20, 9, 50];
 //     return $current >= 18;
 // });
 
+// With arrow functions 
 $mayores_de_edad = array_filter($edades, fn($current) => $current >= 18);
 
 
